@@ -1,0 +1,25 @@
+make[1]: Entering directory '/geoschem/rundirs/geosfp_4x5_standard'
+LAST BUILD INFORMATION:
+  CODE_DIR     : ./CodeDir
+  CODE_BRANCH  : HEAD
+  LAST_COMMIT  : Fix typo in ncdf_mod.F90 from previous commit
+  COMMIT_DATE  : Wed Aug 5 17:38:19 2020 -0400
+  VERSION      : 12.9.3
+  VERSION_TAG  : GC_12.9.3
+  TRACEBACK    : y
+  BOUNDS       : n
+  DEBUG        : n
+  FPE          : n
+  OMP          : y
+  CHEM         : Standard
+  TOMAS12      : n
+  TOMAS15      : n
+  TOMAS30      : n
+  TOMAS40      : n
+  APM          : n
+  RRTMG        : n
+  TAU_PROF     : n
+  BPCH_DIAG    : n
+  COMPILER     : gfortran 9.3.0
+  Datetime     : 2020/09/25 22:31
+make[1]: Leaving directory '/geoschem/rundirs/geosfp_4x5_standard'
